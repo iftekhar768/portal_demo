@@ -1,0 +1,25 @@
+.d1{
+    border: rgb(47, 87, 219) solid;
+}
+.nb1{
+    background-color: #f8f9fa;
+    padding: 10px 0;
+}
+.nav-list{
+    list-style-type:none ;
+    display: flex;
+    align-items: center;
+
+}
+.nav-list li{
+    padding: 10px 15px;
+}
+.nav-list li a{
+    font-weight: bold;
+    font-size: larger ;
+    color:  rgb(47, 87, 219);
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    padding-left: 200px;
+}
